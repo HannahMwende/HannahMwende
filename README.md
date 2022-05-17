@@ -8,13 +8,13 @@
 HannahMwende/HannahMwende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#HELLO
-###HI
-*GERTT*
+# HELLO<br>
+### HI<br>
+
 ```python
 print("jane")
 ```
-* the
-* ghj
-_init_
+* the<br>
+* ghj<br>
+_init_<br>
 **the**
