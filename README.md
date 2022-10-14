@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi there  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hannah Mwende</h2>
-<h4 align="center">A passionate data scientist skilled in Python, SQL, Tableau and Machine learning</h4>
+<h3 align="center">A passionate data scientist skilled in Python, SQL, Tableau and Machine learning</h3>
 <br>
 
 
