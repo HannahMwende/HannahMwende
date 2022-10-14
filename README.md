@@ -6,7 +6,7 @@
 
 -  💬 Ask me about Data science, Data analytics and Machine learning
 -  📝 I regularly  write articles on https://dev.to/hannahmwende
-- 🌱 I’m currently interested in and learning Advanced Machine Learning
+- 🌱 I’m currently learning and interested in Advanced Machine Learning
 - 📫 How to reach me :Email hannahmutua03@gmail.com
 
 <!---
