@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hannah Mwende
+                          👋 Hi, I’m Hannah Mwende
 - 👀 I’m interested in python for data science
 - 🌱 I’m currently learning more about python programming
 - 💞️ I’m looking to collaborate on ...
