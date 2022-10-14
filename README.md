@@ -1,11 +1,13 @@
 
-<h1 align="center">Hi there  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hannah Mwende</h1>
-An enthusiastic data scientist
-<h3 >An enthusiastic data scientist</h3>
-- 👀 I’m interested in python for data science
-- 🌱 I’m currently learning more about python programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2 align="center">Hi there  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hannah Mwende</h2>
+<h4 align="center">A passionate data scientist skilled in Python, SQL, Tableau and Machine learning</h4>
+<br>
+
+
+-  💬 Ask me about Data science, Data analytics and Machine learning
+-  📝 I regularly  write articles on 
+- 🌱 I’m currently interested in Advanced Machine Learning
+- 📫 How to reach me :Email hannahmutua03@gmail.com
 
 <!---
 HannahMwende/HannahMwende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
