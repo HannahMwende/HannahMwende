@@ -1,12 +1,12 @@
 
 <h2 align="center">Hi there  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hannah Mwende</h2>
-<h4 align="center">Data enthusiast transforming raw numbers into actionable insights—skilled in Python, SQL, Tableau, and Machine Learning. 🚀</h4>
+<h4 align="center">Data enthusiast transforming raw numbers into actionable insights — skilled in Python, SQL, Tableau, and Machine Learning. 🚀</h4>
 <br>
 
 
--  💬 Ask me about Data science, Data analytics and Machine learning
+-  💬 Ask me about Data analytics and Data visualization.
 -  📝 I regularly  write articles on https://dev.to/hannahmwende
-- 🌱 I’m currently learning and interested in Advanced Machine Learning
+- 🌱 I’m currently learning and interested in Data Engineering.
 - 📫 How to reach me :Email hannahmutua03@gmail.com
 
 <!---
